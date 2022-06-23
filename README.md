@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JengOnline
 - I'm Programmer 
-- Position Software engineer at Hatari wireless (Partner Bank of ayudhya)
+- Position Software engineer at SCB
 
 <!---
 JengOnline/JengOnline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
